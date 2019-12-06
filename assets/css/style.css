@@ -247,6 +247,15 @@ h1::after {
     background-attachment: fixed;
 }
 
+#profilepic{
+    height:200px;
+    width:200px;
+}
+
+
+
+
+
 #contact-sec .overlay {
         background: rgba(0, 0, 0, 0.76);
         min-height: 600px;
