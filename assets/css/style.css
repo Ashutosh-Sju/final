@@ -243,7 +243,7 @@ h1::after {
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
-    color: #fff;
+    color: #000;
     background-attachment: fixed;
 }
 
@@ -268,11 +268,11 @@ iconss{
     }
 
     #contact-sec h1 {
-        color:#fff;
+        color:#000;
     }
 #contact-sec .form-control{
     background-color:rgba(255, 255, 255, 0);
-    color:#fff;
+    color:#000;
 }
 /*=====================================
   Footer STYLES 
